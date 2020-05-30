@@ -1,0 +1,85 @@
+#HOMEall{  height: auto;   width:100%; }
+
+#header{  height:auto;   width:100%;  background-color:#ADE6E5;  float:left;  }
+#header h1 {  font:Times-New-Roman;  color:#0000FF;  text-align:center;  padding:16 2 16 2;  clear:both;  }
+#nav  {  height: auto;  width:100%;  background-color:#00B2FF; float:left; }
+	        
+*{ margin:0px; padding:0px; text-decoration:none; }
+#nav ul  { text-align:center; font-family:corsiva; font-size:20px; color:#800071; }
+#nav ul li { width:120px; height:40px; background-color:#00B2FF; float:left; line-height:40px; display:inline; padding:0px; }
+#nav ul li:hover { background-color:#ADE6E5; }
+a:link,a:visited{ color:#ffffff; }
+a:hover,a:active{ background-color:#ADE6E5; color:#ffffff; text-decoration: underline #00B2FF;}
+
+ #nav ul ul { display:none; }
+ #nav ul ul li { position:relative; margin:0px; padding:0px; }
+#nav ul li:hover > ul { display:block; }
+#HOMEcenter { height:80%;  width:100%;  background-color:#00B2FF; float:left;  }
+#HOMEabout { width:100%; height: auto; background-color:#00B2FF; float:left; text-align:center; font-size:18px; }
+
+#HOMEbottom { height: 25%; width:55%; background-color:#00B2FF; float:left; }
+#HOMEbottom2 { height: 25%; width:45%; background-color:#00B2FF; float:left; }
+#HOMEbottom address { text-align:center;}
+#HOMEbottom h2 { text-align:right; }
+#HOMEbottom2 ul { padding:2 20 20 150; list-style:none; }
+
+
+	#GALLERYall { width:100%; height:115%; background-color:#00B2FF; text-align:center; }
+
+#GALLERYtop { width:100%; height:15%; float:left; }
+
+#GALLERYc1a { width:20%; height:25%; background-color:blue; float:left; }
+#GALLERYc1a img { width:100%; height:100%; }
+#GALLERYc1b { width:20%; height:25%; background-color:yellow; float:left; }
+#GALLERYc1b img { width:100%; height:100%; }
+#GALLERYc1c { width:20%; height:25%; background-color:blue; float:left; }
+#GALLERYc1c img { width:100%; height:100%; }
+#GALLERYc1d { width:20%; height:25%; background-color:yellow; float:left; }
+#GALLERYc1d img { width:100%; height:100%; }
+#GALLERYc1e { width:20%; height:25%; background-color:blue; float:left; }
+#GALLERYc1e img { width:100%; height:100%; }
+
+#GALLERYc2a { width:20%; height:25%; background-color:blue; float:left; }
+#GALLERYc2a img { width:100%; height:100%; }
+#GALLERYc2b { width:20%; height:25%; background-color:blue; float:left; }
+#GALLERYc2b img{ width:100%; height:100%; }
+#GALLERYc2c { width:20%; height:25%; background-color:blue; float:left; }
+#GALLERYc2c img { width:100%; height:100%; }
+#GALLERYc2d { width:20%; height:25%; background-color:blue; float:left; }
+#GALLERYc2d img { width:100%; height:100%; }
+#GALLERYc2e { width:20%; height:25%; background-color:blue; float:left; }
+#GALLERYc2e img { width:100%; height:100%; }
+
+#GALLERYc3a { width:20%; height:25%; background-color:blue; float:left; }
+#GALLERYc3a img { width:100%; height:100%; }
+#GALLERYc3b { width:20%; height:25%; background-color:blue; float:left; }
+#GALLERYc3b img { width:100%; height:100%; }
+#GALLERYc3c { width:20%; height:25%; background-color:blue; float:left; }
+#GALLERYc3c img { width:100%; height:100%; }
+#GALLERYc3d { width:20%; height:25%; background-color:blue; float:left; }
+#GALLERYc3d img { width:100%; height:100%; }
+#GALLERYc3e { width:20%; height:25%; background-color:blue; float:left; }
+#GALLERYc3e img { width:100%; height:100%;}
+
+#GALLERYc4a{ width:20%; height:25%; background-color:blue; float:left; }
+#GALLERYc4a img { width:100%; height:100%; }
+#GALLERYc4b { width:20%; height:25%; background-color:blue; float:left; }
+#GALLERYc4b img { width:100%; height:100%; }
+#GALLERYc4c { width:20%; height:25%; background-color:blue; float:left; }
+#GALLERYc4c img { width:100%; height:100%; }
+#GALLERYc4d { width:20%; height:25%; background-color:blue; float:left; }
+#GALLERYc4d img { width:100%; height:100%; }
+#GALLERYc4e { width:20%; height:25%; background-color:blue; float:left; }
+#GALLERYc4e img { width:100%; height:100%; }
+
+#GALLERYc5a { width:20%; height:25%; background-color:blue; float:left; }
+#GALLERYc5a img { width:100%; height:100%; }
+#GALLERYc5b { width:20%; height:25%; background-color:blue; float:left; }
+#GALLERYc5b img { width:100%; height:100%; }
+#GALLERYc5c { width:20%; height:25%; background-color:blue; float:left; }
+#GALLERYc5c img { width:100%; height:100%; }
+#GALLERYc5d { width:20%; height:25%; background-color:blue; float:left; }
+#GALLERYc5d img { width:100%; height:100%; }
+#GALLERYc5e { width:20%; height:25%; background-color:blue; float:left; }
+#GALLERYc5e img { width:100%; height:100; }
+
